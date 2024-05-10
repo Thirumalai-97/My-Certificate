@@ -1,0 +1,1 @@
+- List of certificates for participating in quantum computing challenge 
